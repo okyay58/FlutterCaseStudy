@@ -238,3 +238,8 @@ fetch('https://dummyjson.com/products/1', {
 - Aktif kullanıcı bilgilerini görüntüleyen bir sayfa olacaktır.
 - Bu sayfa üzerinden dil değişikliği yapılabilecek (Türkçe/İngilizce).
 - Ayrıca bir "Çıkış Yap" butonu da yer alacak. Bu butona tıklandığında kullanıcı Giriş ekranına geri dönecektir.
+
+#### Proje Teslimi
+- Projenin size iletilen tarihe kadar gönderilmesi gerekmektedir.
+- Proje, github üzerinden public ya da erişim verilmiş private bir repo üzerinden iletilmelidir.
+- Teslim gününe kadar yapabildiğinizin en iyisini yapıp, projeyi teslim etmeniz beklenmektedir. 
