@@ -5,6 +5,11 @@ Bu uygulama, Giriş, Ana Sayfa ve Ürün Listeleme olmak üzere üç ana sayfada
 
 [Figma Projesi](https://www.figma.com/design/IG2V5YNceAvhRr6brJ7x8b/Flutter-Case-Study?node-id=0-1&m=dev&t=ZJvxwD567mVsZBqW-1)
 
+<img src="https://github.com/okyay58/FlutterCaseStudy/blob/main/Ana%20Sayfa.png?raw=true" width="100">
+<img src="https://github.com/okyay58/FlutterCaseStudy/blob/main/Giris%CC%A7%20Yap.png?raw=true" width="100">
+<img src="https://github.com/okyay58/FlutterCaseStudy/blob/main/U%CC%88ru%CC%88nler.png?raw=true" width="100">
+<img src="https://github.com/okyay58/FlutterCaseStudy/blob/main/Dil%20Sec%CC%A7imi.png?raw=true" width="100">
+
 #### 1. **Giriş Ekranı**
 - Giriş ekranında kullanıcı adı ve şifre alanları bulunacaktır.
 - Bir "Beni Hatırla" seçeneği olmalıdır. Seçildiğinde, kullanıcı bir dahaki sefere uygulamayı açtığında alanlar otomatik olarak doldurulacaktır.
